@@ -12,6 +12,12 @@
 		75D8BAE8193E525B00B07EB2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 75D8BAE6193E525B00B07EB2 /* Main.storyboard */; };
 		75D8BAEA193E525B00B07EB2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 75D8BAE9193E525B00B07EB2 /* Images.xcassets */; };
 		75D8BAF6193E525B00B07EB2 /* UIVisualEffectViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75D8BAF5193E525B00B07EB2 /* UIVisualEffectViewTests.swift */; };
+		75D8BB06193E5B1800B07EB2 /* swift 4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 75D8BB01193E5B1800B07EB2 /* swift 4.jpeg */; };
+		75D8BB07193E5B1800B07EB2 /* swift 3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 75D8BB02193E5B1800B07EB2 /* swift 3.jpeg */; };
+		75D8BB08193E5B1800B07EB2 /* swift 2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 75D8BB03193E5B1800B07EB2 /* swift 2.jpeg */; };
+		75D8BB09193E5B1800B07EB2 /* swift 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 75D8BB04193E5B1800B07EB2 /* swift 1.jpeg */; };
+		75D8BB0A193E5B1800B07EB2 /* swift 5.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 75D8BB05193E5B1800B07EB2 /* swift 5.jpeg */; };
+		75D8BB0C193E5F9700B07EB2 /* CustomTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 75D8BB0B193E5F9700B07EB2 /* CustomTableViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +40,12 @@
 		75D8BAEF193E525B00B07EB2 /* UIVisualEffectViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UIVisualEffectViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		75D8BAF4193E525B00B07EB2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		75D8BAF5193E525B00B07EB2 /* UIVisualEffectViewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIVisualEffectViewTests.swift; sourceTree = "<group>"; };
+		75D8BB01193E5B1800B07EB2 /* swift 4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "swift 4.jpeg"; sourceTree = "<group>"; };
+		75D8BB02193E5B1800B07EB2 /* swift 3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "swift 3.jpeg"; sourceTree = "<group>"; };
+		75D8BB03193E5B1800B07EB2 /* swift 2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "swift 2.jpeg"; sourceTree = "<group>"; };
+		75D8BB04193E5B1800B07EB2 /* swift 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "swift 1.jpeg"; sourceTree = "<group>"; };
+		75D8BB05193E5B1800B07EB2 /* swift 5.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "swift 5.jpeg"; sourceTree = "<group>"; };
+		75D8BB0B193E5F9700B07EB2 /* CustomTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CustomTableViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,11 +87,17 @@
 		75D8BADF193E525B00B07EB2 /* UIVisualEffectView */ = {
 			isa = PBXGroup;
 			children = (
+				75D8BB05193E5B1800B07EB2 /* swift 5.jpeg */,
+				75D8BB01193E5B1800B07EB2 /* swift 4.jpeg */,
+				75D8BB02193E5B1800B07EB2 /* swift 3.jpeg */,
+				75D8BB03193E5B1800B07EB2 /* swift 2.jpeg */,
+				75D8BB04193E5B1800B07EB2 /* swift 1.jpeg */,
 				75D8BAE2193E525B00B07EB2 /* AppDelegate.swift */,
 				75D8BAE4193E525B00B07EB2 /* ViewController.swift */,
 				75D8BAE6193E525B00B07EB2 /* Main.storyboard */,
 				75D8BAE9193E525B00B07EB2 /* Images.xcassets */,
 				75D8BAE0193E525B00B07EB2 /* Supporting Files */,
+				75D8BB0B193E5F9700B07EB2 /* CustomTableViewCell.xib */,
 			);
 			path = UIVisualEffectView;
 			sourceTree = "<group>";
@@ -189,8 +207,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				75D8BB0A193E5B1800B07EB2 /* swift 5.jpeg in Resources */,
+				75D8BB07193E5B1800B07EB2 /* swift 3.jpeg in Resources */,
 				75D8BAE8193E525B00B07EB2 /* Main.storyboard in Resources */,
+				75D8BB09193E5B1800B07EB2 /* swift 1.jpeg in Resources */,
+				75D8BB08193E5B1800B07EB2 /* swift 2.jpeg in Resources */,
 				75D8BAEA193E525B00B07EB2 /* Images.xcassets in Resources */,
+				75D8BB0C193E5F9700B07EB2 /* CustomTableViewCell.xib in Resources */,
+				75D8BB06193E5B1800B07EB2 /* swift 4.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -399,6 +423,7 @@
 				75D8BAFB193E525B00B07EB2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		75D8BAFC193E525B00B07EB2 /* Build configuration list for PBXNativeTarget "UIVisualEffectViewTests" */ = {
 			isa = XCConfigurationList;
@@ -407,6 +432,7 @@
 				75D8BAFE193E525B00B07EB2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
